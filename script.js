@@ -14,6 +14,6 @@ function setGradient() {
 	css.textContent = body.style.background + ";";
 }
 
-color1.addEventListener("onclick", setGradient);
+color1.addEventListener("click", setGradient);
 
-color2.addEventListener("onclick", setGradient);
+color2.addEventListener("click", setGradient);
